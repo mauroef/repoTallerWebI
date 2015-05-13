@@ -1,8 +1,8 @@
 package ar.edu.unlam.tallerwebI.tp1;
 
 public class Alumno {
-	int primerParcial;
-	int segundoParcial;
+	private int primerParcial;
+	private int segundoParcial;
 	
 	public int getPrimerParcial() {
 		return primerParcial;
