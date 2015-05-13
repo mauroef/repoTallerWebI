@@ -3,6 +3,7 @@ package ar.edu.unlam.tallerwebI.tp1;
 public class Alumno {
 	private int primerParcial;
 	private int segundoParcial;
+	private int tercerParcial;
 	
 	public int getPrimerParcial() {
 		return primerParcial;
